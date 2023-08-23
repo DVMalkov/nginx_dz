@@ -81,3 +81,4 @@
     - nginx_amplify_api_key is defined
     - nginx_amplify_api_key | length > 0
   tags: nginx_install_amplify
+
